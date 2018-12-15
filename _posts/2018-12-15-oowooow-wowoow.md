@@ -4,6 +4,9 @@ post_title: oowooow wowoow
 post_name: oowooow-wowoow
 author: mkepa
 post_date: 2018-12-15 10:33:20
+post_excerpt: |
+  GVKUYQEW GQUWEGYUQ  IUuhweiu hwipeuhwiuehiuwhe iuwheiuwhe
+  iluwhe iuwhe
 layout: post
 link: >
   https://mkepa.thisistap.com/oowooow-wowoow/
