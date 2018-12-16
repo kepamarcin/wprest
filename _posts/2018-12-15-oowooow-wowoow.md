@@ -14,6 +14,10 @@ published: true
 tags: [ ]
 categories:
   - Bez kategorii
+  - kolejna
+  - news
+  - pierwsza
+  - Prawo
 ---
 <!-- wp:image {"id":201} -->
 <figure class="wp-block-image"><img src="https://mkepa.thisistap.com/wp-content/uploads/2017/10/fo.jpg" alt="" class="wp-image-201"/></figure>
